@@ -1,0 +1,39 @@
+queztion jeu 
+
+
+
+1 ) Layers_of_Fear est un jeu de type horreur psychologie.
+
+
+
+2) 	On retrouve les mécaniques de Déplacement ( avec un effet bourré )  , sprint , interation avec des objets pour obtenir des infos dessus (on le prends au premier plan et on peut faire tourné l'objet)  , ouverture des portes (il faut click + faire glisser la souris, cela donne une meilleur immersion)  , changement de pièce ( qui se téléport fin on se fait tp dans des salles identiques), on peut jouer du piano, on peut zoomer ( restrictivement du fov de la cam ), Cadena a code , clé .
+
+3) 	L'immersion dans le jeu est mis en place de différentes manière: 1) les déplacements avec la caméra qui bouge comme ci on était blesser/bourré; les éléments sonores qui mettent dans l'ambiance et qui rajoute de la pression; l'ouverture des portes/ des tiroirs avec la souris ; la lumière ajoute de la pression ; On retrouve peu d' UI interne au jeux seulement pour les objets interraciale  
+
+4)		Déplacement  du personnage, le flou au loin , on se sens totalement perdu voir on devient nous aussi fou, On est toujours au aguet on sait jamais quand le jeu va nous faire peur. 
+
+
+5) On se fait attraper par une créature qui nous déplace dans une salle aléatoire du même niveaux qui sont prédéfinit.
+
+
+6) 	 Je dirais que lorsque la porte ce referme cela déclenche un évent ( trigger sur unity) qui permet soit de tp le joueur dans une salle identique mais qui est dans un autre endroit et aussi l'utilisation de porte / portail ( on voit l'endroit ou on vas a travers la porte mais en faite on est tp ailleurs).
+
+7) C'était une bonne experience mais au bout d'un moment vers les 3/4 du jeux j'étais plus surpris donc moins de peur ce qui donne moins d'interer donc peut être un peu long et la fin le fait de recommencer et de voir que c'est pas la première fois qu'il recommence c'est pas ma came mais je comprends.
+
+
+Pratique : 
+
+1) mecanique de changement de salle .
+
+2) j'ai créer une salle avec une porte qui mène a un couloir , dans celui ci il y a un téléporteur qui nous tp dans  un couloir identique mais en réalité on est dans un nouveau endroit et si on reprend la porte d'où l'on vient on est dans une nouvelle salle ou une clé nous attend. 
+Une fois la clé récup un nouveaux téléporteur sera activer qui nous ramenera au premier couloir et si on avance prendre la porte menant  à la 1ere salle le 1er teleporteur se réactive nous ramenant devant la porte de la salle ou nous venons de récupéré la clé. 
+Pour finir le niveau i faut prendre le 2 emme tp ( revenir au premier couloir ) faire demi tour et avancer dans le couloir suivant encore et encore jusqu'à arriver a la salle ayant la porte a dévérouiller avec la clé.
+
+
+3) C'est cette mécanique qui nous perd totalement et permet d'avancer dans le LD particulier du jeu.
+
+4) Elle m'a plu car elle m'a retourné le cerveau dans le jeu et encore maintenant ya des dérivé de la mécanique que je ne comprend pas vrm ( ya des moments ou on regarde un tableau on fait un 90 puis un 90 degré la salle a changé / je pense qu'il doit envoyé des rayon ou il regarde et s'il regarde une certaines zone ça active un event qui soit tp soit active/ désactive de asset ). 
+
+
+
+
